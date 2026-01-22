@@ -1,0 +1,12 @@
+# Compiled Java files
+*.class
+
+# JavaFX / build
+bin/
+out/
+
+# Audio files (copyright)
+src/audio/*.mp3
+
+# VS Code
+.vscode/
